@@ -1,7 +1,7 @@
 #pragma once
 
 #include "quantum.h"
-#include ".env.c"
+#include "secrets.c"
 
 enum custom_keycodes {
     PW1 = SAFE_RANGE,
