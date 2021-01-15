@@ -6,5 +6,5 @@
 enum custom_keycodes {
     PW1 = SAFE_RANGE,
     PW2,
-    DUMMYCARD,
+    DUMMYCC,
 };
