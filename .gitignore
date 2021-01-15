@@ -1,3 +1,4 @@
+.env.c
 .history/
 .dep
 *.o
