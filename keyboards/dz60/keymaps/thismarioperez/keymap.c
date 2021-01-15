@@ -1,5 +1,5 @@
 #include QMK_KEYBOARD_H
-#include "thismarioperez.h"
+#include "thismarioperez.c"
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     // Layer 1
